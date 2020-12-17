@@ -9,6 +9,23 @@
  Para iniciar: <code>node app.js</code>
 
 # Basic Usage
- Após iniciar basta acessar http://localhost:8081/
+ Após iniciar basta acessar no browser http://localhost:8081/
  
  
+<blockquote>
+<p>A tela iniciar será:</p>
+</blockquote>
+
+ <img src="https://raw.githubusercontent.com/pcoliveira90/chat_simples/main/app/public/images/pagina_inicial.png" alt="Tela inicial" style="max-width:100%;">
+ 
+<blockquote>
+<p>Para iniciar é necessário registra um nickname e irá iniciar o chat.</p>
+</blockquote>
+ 
+ <img src="https://raw.githubusercontent.com/pcoliveira90/chat_simples/main/app/public/images/pagina_usuario_registrado.png" alt="Usuario registrado" style="max-width:100%;">
+ 
+ <blockquote>
+<p>A troca de mensagem pode ser publica, privada, para todos ou para alguem especifico.</p>
+</blockquote>
+
+<img src="https://raw.githubusercontent.com/pcoliveira90/chat_simples/main/app/public/images/pagina_troca_mensagem.png" alt="Troca de mensagem" style="max-width:100%;">
