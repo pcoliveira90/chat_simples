@@ -4,4 +4,4 @@
 # Installation
  É necessário ter node.js instalado.
 
- Para iniciar: node app.js
+ Para iniciar: <code>node app.js</code>
