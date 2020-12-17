@@ -25,7 +25,7 @@
  <img src="https://raw.githubusercontent.com/pcoliveira90/chat_simples/main/app/public/images/pagina_usuario_registrado.png" alt="Usuario registrado" style="max-width:100%;">
  
  <blockquote>
-<p>A troca de mensagem pode ser pública, privada, para todos ou para alguém específico.</p>
+<p>A troca de mensagens pode ser pública ou privada e o destinatário pode ser todos ou um usuário específico.</p>
 </blockquote>
 
 <img src="https://raw.githubusercontent.com/pcoliveira90/chat_simples/main/app/public/images/pagina_troca_mensagem.png" alt="Troca de mensagem" style="max-width:100%;">
