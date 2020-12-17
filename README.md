@@ -1,9 +1,7 @@
 # chat_simples
  Chat simples utilizando node.js - Websocket
 
-#Installation
+# Installation
  É necessário ter node.js instalado.
 
- Para iniciar:
-
- node app.js
+ Para iniciar: node app.js
