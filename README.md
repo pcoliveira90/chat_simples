@@ -1,7 +1,7 @@
 # chat_simples
  Chat simples utilizando node.js - Websocket
  
-Refactarando..  (class/test)
+Refatorando.. outra visão  (class/test)
 https://github.com/pcoliveira90/chat_simples_v2
 
 # Installation / Init
